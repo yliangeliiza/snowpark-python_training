@@ -4,7 +4,6 @@
 [default]
 account = "nh50879.ap-southeast-2"
 user = "YLIANG"
-password = "Summer2020#GW"
 role = "HOL_ROLE"
 warehouse = "HOL_WH"
 database = "HOL_DB"
